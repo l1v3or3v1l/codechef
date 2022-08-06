@@ -1,5 +1,4 @@
 # codechef
-codechef self learning
+[codechef self learning](https://www.codechef.com/selflearning)  
 
-[0to1stars](https://www.codechef.com/selflearning/0to1stars)  
-- [Getting Started - LPT0TO101](https://www.codechef.com/LP0TO101/)
+- [Getting Started for Unrated Coders](https://www.codechef.com/LP0TO100/)
