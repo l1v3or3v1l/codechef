@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 public class FLOW001 {
@@ -9,6 +8,7 @@ public class FLOW001 {
 		while(t-- != 0) {
 			System.out.println(sc.nextInt() + sc.nextInt());
 		}
+		sc.close();
 	}
 }
 
